@@ -1,3 +1,1 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
+# Welcome to passwarrior - A random password generator tool
